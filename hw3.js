@@ -4,4 +4,4 @@
 var fs = require('fs');
 
 //Read the content of hello_world.txt and stream it out.
-fs.createReadStream('hello_world.txt').pipe(process.stdout);
+fs.createReadStream('./hello_world.txt').pipe(process.stdout);
