@@ -1,0 +1,24 @@
+{
+  "name": "hello-dear-beloved-saint-world",
+  "version": "0.0.0",
+  "description": "Nodejs introduction",
+  "main": "hw1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UTN-FRD/hello-dear-beloved-saint-world/"
+  },
+  "keywords": [
+    "nodejs",
+    "test",
+    "helloworld",
+    "introduction"
+  ],
+  "author": "franleplant@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^0.4.0"
+  }
+}

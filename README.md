@@ -15,3 +15,6 @@ Run every .js file like this
 
 
 Checkout the code and the output.
+
+
+TODO: Add testing
