@@ -16,5 +16,16 @@ Run every .js file like this
 
 Checkout the code and the output.
 
+## Test it
+
+Run
+
+```bash
+cd test
+node hw1.js
+node hw2.js
+...
+```
+
 
 TODO: Add testing to hw4.js
